@@ -1,0 +1,122 @@
+[
+    {
+        "pk": 1,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Драма",
+            "slug": "drama"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Комедия",
+            "slug": "comedy"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Вестерн",
+            "slug": "western"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Фэнтези",
+            "slug": "fantasy"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Фантастика",
+            "slug": "sci-fi"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Детектив",
+            "slug": "detective"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Триллер",
+            "slug": "thriller"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Сказка",
+            "slug": "tale"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Гонзо",
+            "slug": "gonzo"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Роман",
+            "slug": "roman"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Баллада",
+            "slug": "ballad"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Rock-n-roll",
+            "slug": "rock-n-roll"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Классика",
+            "slug": "classical"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Рок",
+            "slug": "rock"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "reviews.Genre",
+        "fields": {
+            "name": "Шансон",
+            "slug": "chanson"
+        }
+    }
+]

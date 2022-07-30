@@ -1,0 +1,290 @@
+[
+    {
+        "pk": 1,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Побег из Шоушенка",
+            "year": 1994,
+            "category": 1
+        }
+    },
+    {
+        "pk": 2,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Крестный отец",
+            "year": 1972,
+            "category": 1
+        }
+    },
+    {
+        "pk": 3,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "12 разгневанных мужчин",
+            "year": 1957,
+            "category": 1
+        }
+    },
+    {
+        "pk": 4,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Список Шиндлера",
+            "year": 1993,
+            "category": 1
+        }
+    },
+    {
+        "pk": 5,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Криминальное чтиво",
+            "year": 1994,
+            "category": 1
+        }
+    },
+    {
+        "pk": 6,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Хороший, плохой, злой",
+            "year": 1966,
+            "category": 1
+        }
+    },
+    {
+        "pk": 7,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Властелин колец: Братство кольца",
+            "year": 2001,
+            "category": 1
+        }
+    },
+    {
+        "pk": 8,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Бойцовский клуб",
+            "year": 1999,
+            "category": 1
+        }
+    },
+    {
+        "pk": 9,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Форрест Гамп",
+            "year": 1994,
+            "category": 1
+        }
+    },
+    {
+        "pk": 10,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Звёздные войны. Эпизод 5: Империя наносит ответный удар",
+            "year": 1980,
+            "category": 1
+        }
+    },
+    {
+        "pk": 11,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Властелин колец: Две крепости",
+            "year": 2002,
+            "category": 1
+        }
+    },
+    {
+        "pk": 12,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Матрица",
+            "year": 1999,
+            "category": 1
+        }
+    },
+    {
+        "pk": 13,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Пролетая над гнездом кукушки",
+            "year": 1975,
+            "category": 1
+        }
+    },
+    {
+        "pk": 14,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Назад в будущее",
+            "year": 1985,
+            "category": 1
+        }
+    },
+    {
+        "pk": 15,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Операция «Ы» и другие приключения Шурика",
+            "year": 1965,
+            "category": 1
+        }
+    },
+    {
+        "pk": 16,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Карты, деньги, два ствола",
+            "year": 1998,
+            "category": 1
+        }
+    },
+    {
+        "pk": 17,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Джентльмены удачи",
+            "year": 1971,
+            "category": 1
+        }
+    },
+    {
+        "pk": 18,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Джанго освобожденный",
+            "year": 2012,
+            "category": 1
+        }
+    },
+    {
+        "pk": 19,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Generation П",
+            "year": 2011,
+            "category": 1
+        }
+    },
+    {
+        "pk": 20,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Колобок",
+            "year": 1873,
+            "category": 2
+        }
+    },
+    {
+        "pk": 21,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Страх и ненависть в Лас-Вегасе",
+            "year": 1971,
+            "category": 2
+        }
+    },
+    {
+        "pk": 22,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Война и мир",
+            "year": 1865,
+            "category": 2
+        }
+    },
+    {
+        "pk": 23,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Улисс",
+            "year": 1918,
+            "category": 2
+        }
+    },
+    {
+        "pk": 24,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Generation П",
+            "year": 1999,
+            "category": 2
+        }
+    },
+    {
+        "pk": 25,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Винни Пух и все-все-все",
+            "year": 1926,
+            "category": 2
+        }
+    },
+    {
+        "pk": 26,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Стас Михайлов - Позывные на любовь",
+            "year": 2004,
+            "category": 3
+        }
+    },
+    {
+        "pk": 27,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Led Zeppelin — Stairway to Heaven",
+            "year": 1971,
+            "category": 3
+        }
+    },
+    {
+        "pk": 28,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Jethro Tull - Aqualung",
+            "year": 1971,
+            "category": 3
+        }
+    },
+    {
+        "pk": 29,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Elvis Presley - Blue Suede Shoes",
+            "year": 1955,
+            "category": 3
+        }
+    },
+    {
+        "pk": 30,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Deep Purple — Smoke on the Water",
+            "year": 1971,
+            "category": 3
+        }
+    },
+    {
+        "pk": 31,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Моцарт - Турецкий марш",
+            "year": 1784,
+            "category": 3
+        }
+    },
+    {
+        "pk": 32,
+        "model": "reviews.Title",
+        "fields": {
+            "name": "Бах. Оркестровая Сюита №2 си минор",
+            "year": 1739,
+            "category": 3
+        }
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "pk": 1,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 1,
+            "genre_id": 1
+        }
+    },
+    {
+        "pk": 2,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 2,
+            "genre_id": 1
+        }
+    },
+    {
+        "pk": 3,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 3,
+            "genre_id": 1
+        }
+    },
+    {
+        "pk": 4,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 4,
+            "genre_id": 1
+        }
+    },
+    {
+        "pk": 5,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 5,
+            "genre_id": 2
+        }
+    },
+    {
+        "pk": 6,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 5,
+            "genre_id": 6
+        }
+    },
+    {
+        "pk": 7,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 5,
+            "genre_id": 7
+        }
+    },
+    {
+        "pk": 8,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 6,
+            "genre_id": 3
+        }
+    },
+    {
+        "pk": 9,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 7,
+            "genre_id": 4
+        }
+    },
+    {
+        "pk": 10,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 8,
+            "genre_id": 7
+        }
+    },
+    {
+        "pk": 11,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 9,
+            "genre_id": 1
+        }
+    },
+    {
+        "pk": 12,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 9,
+            "genre_id": 2
+        }
+    },
+    {
+        "pk": 13,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 10,
+            "genre_id": 4
+        }
+    },
+    {
+        "pk": 14,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 11,
+            "genre_id": 4
+        }
+    },
+    {
+        "pk": 15,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 12,
+            "genre_id": 1
+        }
+    },
+    {
+        "pk": 16,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 12,
+            "genre_id": 5
+        }
+    },
+    {
+        "pk": 17,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 12,
+            "genre_id": 6
+        }
+    },
+    {
+        "pk": 18,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 12,
+            "genre_id": 8
+        }
+    },
+    {
+        "pk": 19,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 13,
+            "genre_id": 1
+        }
+    },
+    {
+        "pk": 20,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 14,
+            "genre_id": 5
+        }
+    },
+    {
+        "pk": 21,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 15,
+            "genre_id": 2
+        }
+    },
+    {
+        "pk": 22,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 15,
+            "genre_id": 6
+        }
+    },
+    {
+        "pk": 23,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 15,
+            "genre_id": 8
+        }
+    },
+    {
+        "pk": 24,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 16,
+            "genre_id": 2
+        }
+    },
+    {
+        "pk": 25,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 17,
+            "genre_id": 2
+        }
+    },
+    {
+        "pk": 26,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 18,
+            "genre_id": 1
+        }
+    },
+    {
+        "pk": 27,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 19,
+            "genre_id": 1
+        }
+    },
+    {
+        "pk": 28,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 20,
+            "genre_id": 7
+        }
+    },
+    {
+        "pk": 29,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 20,
+            "genre_id": 8
+        }
+    },
+    {
+        "pk": 30,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 21,
+            "genre_id": 9
+        }
+    },
+    {
+        "pk": 31,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 22,
+            "genre_id": 10
+        }
+    },
+    {
+        "pk": 32,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 23,
+            "genre_id": 10
+        }
+    },
+    {
+        "pk": 33,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 24,
+            "genre_id": 10
+        }
+    },
+    {
+        "pk": 34,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 25,
+            "genre_id": 8
+        }
+    },
+    {
+        "pk": 35,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 26,
+            "genre_id": 15
+        }
+    },
+    {
+        "pk": 36,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 27,
+            "genre_id": 11
+        }
+    },
+    {
+        "pk": 37,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 27,
+            "genre_id": 14
+        }
+    },
+    {
+        "pk": 38,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 28,
+            "genre_id": 11
+        }
+    },
+    {
+        "pk": 39,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 29,
+            "genre_id": 12
+        }
+    },
+    {
+        "pk": 40,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 30,
+            "genre_id": 14
+        }
+    },
+    {
+        "pk": 41,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 31,
+            "genre_id": 13
+        }
+    },
+    {
+        "pk": 42,
+        "model": "reviews.GenreTitle",
+        "fields": {
+            "title_id": 32,
+            "genre_id": 13
+        }
+    }
+]
