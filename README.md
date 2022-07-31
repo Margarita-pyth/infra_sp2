@@ -40,19 +40,9 @@ DB_PORT=5432 # порт для подключения к БД
 docker-compose up -d --build 
 ```
 
-Выполните миграции:
-```sh
-docker-compose exec web python manage.py migrate
-```
-
-Создайте суперюзера:
+Для создания суперюзера выполинте команду:
 ```sh
 docker-compose exec web python manage.py createsuperuser
-```
-
-Подтяните статику:
-```sh
-docker-compose exec web python manage.py collectstatic --no-input
 ```
 
 #### Теперь проект готов к работе и доступен по адресу http://localhost/api/v1.
@@ -63,7 +53,7 @@ docker-compose exec web python manage.py collectstatic --no-input
 docker-compose exec web python manage.py dumpdata > fixtures.json
 ```
 
-Чтобы скопировать файл  базы данных в контейнер выполните команду:
+Чтобы скопировать файл  базы данных в контейнер выполните команду из директории infra_sp2/infra:
 ```sh
 docker cp fixtures.json <id>:app/
 ```
@@ -152,31 +142,20 @@ DB_PORT=5432 # port for connecting to the database
 docker-compose up -d --build
 ```
 
-Run the migrations:
-```sh
-docker-compose exec web python manage.py migrate
-```
-
-Create a superuser:
+To create a superuser, run the command:
 ```sh
 docker-compose exec web python manage.py createsuperuser
 ```
 
-Pull up static:
-```sh
-docker-compose exec web python manage.py collectstatic --no-input
-```
-
 #### The project is now ready to go and available at http://localhost/api/v1.
 #### And access to the admin panel is also available: http://localhost/admin/login/?next=/admin/.
-
 
 To backup the database, run the following command from the infra_sp2\infra directory:
 ```sh
 docker-compose exec web python manage.py dumpdata > fixtures.json
 ```
 
-To copy the database file to the container, run the command:
+To copy the database file to the container, run the command from the infra_sp2/infra directory:
 ```sh
 docker cp fixtures.json <id>:app/
 ```
